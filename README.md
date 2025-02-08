@@ -1,2 +1,2 @@
-# [kosoadoofficialsite](https://kosoado.github.io/site/)
-こそあど公式サイト
+# [ｌｅａｒｎ１００ｋｗｏｒdｓ．ｃｏｍ](https://kosoado.github.io/site/)
+learn100kwords.com
