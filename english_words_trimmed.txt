@@ -37,23 +37,30 @@ abet 〈人を〉そそのかして（悪事を）働かせる≪in≫ 例文:ab
 abhor 嫌悪する、憎む(悪い意味ではなく、正義のために)
 abhorrence 嫌悪 憎しみ
 abhorrent （be abhorrent of～で、～をひどく嫌う）、abhorrent eye 憎しみに満ちた目
-abide (I can’t abide people who are always late. / 「いつも遅刻する人には耐えられない。」/They must abide by the university regulations. / 「彼らは大学の規定を守らなければならない。」 
+abide (I can’t abide people who are always late. / 「いつも遅刻する人には耐えられない。」/
+      They must abide by the university regulations. / 「彼らは大学の規定を守らなければならない。」 
 abigail 侍女（lady's maid）
 Abilene 米国テキサス州中央部の都市
-ability 能力、才能、力量、手腕 （才能，手腕，力量，学力の場合は後にin，for，atが続くability as a pianist）(能力，力,能力，法的資格の場合は後にto doが続く)
+ability 能力、才能、力量、手腕 （才能，手腕，力量，学力の場合は後にin，for，atが続くability as a pianist）
+                              (能力，力,能力，法的資格の場合は後にto doが続く)
 abiotic 生命のない
-abject 悲惨な、最悪な、絶望的な(abject failure大失敗）、みじめな
-abjure
-ABL
-ablate
-ablated
-ablation
-ablative
-ablaze
-able
-ably
-ABM
-abnormal
+abject 悲惨な、最悪な、絶望的な(abject failure大失敗）、
+      みじめな(卑劣な)→abject excuse
+abjure 昔の信念や生活様式を捨てる際によく用いられ、時には法的または宗教的な文脈での使用が見られる。
+ABL(Asset Based Lending) 動産担保融資
+ablate (医療的に)切除する、(I had my doctor ablate the cancer cells.)
+ablated (医療的に)切除された
+ablation (医療的)切除 (The ablation surgery has been completed.切除手術は完了しました。)
+ablative （ablative surgery切除手術)
+ablaze (情景、景観にフォーカスして、燃えているという意味をあらわす。The house was ablaze.その家は燃えていた。
+　　　　 He was ablaze with anger. 彼はまっ赤になって怒っていた.※なんと、形容詞なんです。)
+able ・be able to ～できる(※be able to と can の違い ← be able to の方がフォーマル)
+　　　　　　　　　　       (※was able to と could の違い ← I was able to finish the report.	報告書を終えることができました。 was able toは、実際に過去にできた(した)事
+　　　　　　　　　　　　　    この場合、I could finish the reportは✕。could は 「可能」という意味のできたなので、報告書を終えることが可能だった、となり、✕)　
+     ・able  よくできる、有能な(She is able in business.彼女は商才にたけている/She is willing and able to help with the project.彼女はそのプロジェクトを手伝う意思と能力がある。)
+ably ・有能に He does his work ably.
+ABM ( antiballistic missile)弾道弾ミサイル迎撃ミサイル
+abnormal (悪い意味で異常な)
 abnormality
 abnormally
 aboard
