@@ -38,11 +38,11 @@ abhor 嫌悪する、憎む(悪い意味ではなく、正義のために)
 abhorrence 嫌悪 憎しみ
 abhorrent （be abhorrent of～で、～をひどく嫌う）、abhorrent eye 憎しみに満ちた目
 abide (I can’t abide people who are always late. / 「いつも遅刻する人には耐えられない。」/They must abide by the university regulations. / 「彼らは大学の規定を守らなければならない。」 
-abigail
-Abilene
-ability
-abiotic
-abject
+abigail 侍女（lady's maid）
+Abilene 米国テキサス州中央部の都市
+ability 能力、才能、力量、手腕 （才能，手腕，力量，学力の場合は後にin，for，atが続くability as a pianist）(能力，力,能力，法的資格の場合は後にto doが続く)
+abiotic 生命のない
+abject 悲惨な、最悪な、絶望的な(abject failure大失敗）、みじめな
 abjure
 ABL
 ablate
