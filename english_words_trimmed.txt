@@ -19,25 +19,25 @@ abbreviate
 abbreviated
 abbreviation
 ABC
-abdicate
-abdication
-abdomen
-abdominal
-abduct
-abducted
-abduction
-Abdul
-abed
-Abel
-Abercrombie
-Aberdeen
-aberrant
-aberration
-abet
-abhor
-abhorrence
-abhorrent
-abide
+abdicate 退位する
+abdication 退位
+abdomen 腹部
+abdominal 腹部の
+abduct 誘拐する
+abducted 誘拐された
+abduction 誘拐
+Abdul 知らん
+abed 寝る
+Abel 
+Abercrombie ブランド名
+Aberdeen スコットランドの都市「aberdeen」
+aberrant 常軌を逸した abnormalの方が一般的にはよく使われる。
+aberration 逸脱、異常
+abet 〈人を〉そそのかして（悪事を）働かせる≪in≫ 例文:abet a person in a theft(人をそそのかして盗みを働かせる)
+abhor 嫌悪する、憎む(悪い意味ではなく、正義のために)
+abhorrence 嫌悪 憎しみ
+abhorrent （be abhorrent of～で、～をひどく嫌う）、abhorrent eye 憎しみに満ちた目
+abide (I can’t abide people who are always late. / 「いつも遅刻する人には耐えられない。」/They must abide by the university regulations. / 「彼らは大学の規定を守らなければならない。」 
 abigail
 Abilene
 ability
