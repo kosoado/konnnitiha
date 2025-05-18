@@ -31,7 +31,7 @@ abed 寝る
 Abel 
 Abercrombie ブランド名
 Aberdeen スコットランドの都市「aberdeen」
-aberrant 常軌を逸した abnormalの方が一般的にはよく使われる。
+aberrant 常軌を逸した
 aberration 逸脱、異常
 abet 〈人を〉そそのかして（悪事を）働かせる≪in≫ 例文:abet a person in a theft(人をそそのかして盗みを働かせる)
 abhor 嫌悪する、憎む(悪い意味ではなく、正義のために)
@@ -44,7 +44,7 @@ Abilene 米国テキサス州中央部の都市
 ability 能力、才能、力量、手腕 （才能，手腕，力量，学力の場合は後にin，for，atが続くability as a pianist）
                               (能力，力,能力，法的資格の場合は後にto doが続く)
 abiotic 生命のない
-abject 悲惨な、最悪な、絶望的な(abject failure大失敗）、
+abject 悲惨な、最悪な、絶望的な(abject failure大失敗）他の「悲惨な、絶望的な」という意味の単語に比べても、一番絶望的。
       みじめな(卑劣な)→abject excuse
 abjure 昔の信念や生活様式を捨てる際によく用いられ、時には法的または宗教的な文脈での使用が見られる。
 ABL(Asset Based Lending) 動産担保融資
@@ -60,21 +60,27 @@ able ・be able to ～できる(※be able to と can の違い ← be able to �
      ・able  よくできる、有能な(She is able in business.彼女は商才にたけている/She is willing and able to help with the project.彼女はそのプロジェクトを手伝う意思と能力がある。)
 ably ・有能に He does his work ably.
 ABM ( antiballistic missile)弾道弾ミサイル迎撃ミサイル
-abnormal (悪い意味で異常な)
-abnormality
-abnormally
-aboard
-abolish
-abolition
-abolitionist
-abominable
-abomination
-Aboriginal
-Aborigine
-abort
-aborted
-abortion
-abortionist
+abnormal (悪い意味で)異常な
+abnormality 異常:The machine shut down due to an abnormality in the system.システムの異常により機械が停止した。） 
+                 An abnormality was detected in the patient's brain scan.(患者の脳のスキャンで異常が検出された。）
+            このように、パソコン、医療に関する以上でしか使われない。
+abnormally　The patient's heart rate was abnormally high.患者の心拍数が異常に高かった。
+　　　　　　 The machine is operating abnormally.機械が正常に作動していない（異常動作している）。
+aboard 乗船している:He is already aboard the boat.←少しフォーマル。カジュアル→He is already on board the boat
+       Welcome aboard!ようこそご乗船／入社／くださいました(入社おめでとう！) 違い welcome on boardは、メールで使われる
+abolish 廃止する(特に、法律、制度、非常にフォーマル)The government decided to abolish the death penalty.(政府は死刑制度の撤廃を決めた。)主にニュースで使われる単語。
+abolition 廃止(特に、法律、制度、非常にフォーマル)When I heard the news about the abolition of the pension system, I was taken aback.(年金制度廃止に関するニュースを聞いた時、ものすごく驚いた。)
+abolitionist ～廃止論者 kanji abolitionist 漢字廃止論者(私やん)
+abominable 忌まわしい、言語道断な、実にいやな、 abominable incident(忌まわしい事件) The food there was abominable(そこの食べ物はひどかった)
+abomination「道徳的に許せないほど嫌われるもの」や「絶対に受け入れられない悪」War is an abomination.（戦争は忌まわしいことだ。）
+Aboriginal アボリジニの Aboriginal culture
+Aborigine アボリジニ
+abort 中止する(プロセスやミッションを緊急事態のせいで)The space mission was aborted due to a technical failure.（技術的な故障のため、宇宙ミッションは中止された。）
+　　　The software installation was aborted because the system crashed.（システムがクラッシュしたため、ソフトウェアのインストールは中止された。）
+      妊娠中絶する
+aborted　The launching has been aborted.(ロケット・ミサイルの)発射は中止された.
+abortion 妊娠中絶
+abortionist 妊娠中絶医
 abortive
 abortus
 abound
